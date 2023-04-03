@@ -19,7 +19,7 @@ Research experience
   * Hong Kong Centre for Cerebro-Cardiovascular Health Engineering
   * Supervisor: Yuanting ZHANG(Chair Professor)
   * Duties included: 
-    1.Studied blood pressure (BP) monitoring and analysis based on PPG and PTT
+    * Studied blood pressure (BP) monitoring and analysis based on PPG and PTT
     2.Applied noise reduction techniques to ECG, BP, and PTT data using scipy, pandas, and other tools
     3.Learned deep learning and developed a predictive BP model to improve accuracy
     
