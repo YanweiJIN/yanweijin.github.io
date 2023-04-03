@@ -12,6 +12,17 @@ redirect_from:
 Education
 ======
 * B.S. in Nursing, Peking University, 2022
+  * Relevant Courses:
+    * Medicine: Epidemiology and Social Medicine, Biochemistry.
+    * Math: Probability and Statistics, Linear Algebra, Advanced Mathematics, Biostatistics.
+    * Data Science: Learning Data Science with Python, Introduction to Database Systems.
+  * Awards & Honors:     
+    * Second Prize in Peking University Public Medical Science Education Competition (2021)
+    * Third Prize in National College Student Challenge Cup Competition for an ankle dynamometer (2021)
+    * First Prize in National College Student Innovative Experimental Project of China(2020)
+    * Second Prize in Beijing Contest District in China Undergraduate Mathematical Contest in Modeling (2019)
+    * Peking University Social Welfare Scholarship (2019)
+
 
 Research experience
 ======
@@ -46,29 +57,40 @@ Research experience
       * Conducted interviews with healthcare workers, recording and transcribing sessions for analysis
       * Used Nvivo tool and Colaizzi's 7-step analysis method to extract key information and construct a time-based risk perception model
 
-* Jul 2022-Present: Research Assistant
+* Sep 2019-Oct 2020: Research Assistant
   * Peking University
-  * Supervisor: Hongyu SUN(Secretary General of Chinese Nursing Association)
-  * Subject Name: Construction of a knowledge graph-based chronic disease risk prediction model and health management pathway in the context of big data based on knowledge graph under the background of Big Data(National Natural Science Foundation of China)
+  * Supervisor: Zhiwen Wang(Member of the American Academy of Nursing)
+  * Subject Name: Home care guide for the elderly with dementia(National College Student Innovative Experimental Project of China)
   * Duties included: 
-    1.Used tools like selenium and requests to extract chronic disease risk factors from web content.
-    2.Standardized and analyzed collected data using natural language processing techniques.
-    3.Utilized spaCy library to construct a knowledge graph related to chronic disease risk factors and health management.
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+    * Conducted systematic searches of databases and websites of dementia associations to obtain high-quality literature; performed quality assessment and content extraction
+    * Completed textual content for the guide in consultation with clinical experts in the treatment and care of dementia patients
+    * Utilized AutoCAD software to create 2D and 3D illustrations for the guide
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+
+Work experience
+======
+* Jan 2023-Present: Nurse Trainee
+  * Peking University First Hospital
+  * Supervisor: Hongyan Guo (Head Nurse)
+  * Duties included: 
+    * Rotated through Surgical Ward, Internal Medicine Ward, Obstetrics and Gynecology Ward, Pediatric Ward, Psychiatric Ward, Emergency Ward and Community Hospital.
+    * Completed clinical nursing operations as required by each ward.
+
+Skills
+======
+* Programming languages: Python (Deep Learning), SQL, JavaScript, HTML/CSS, R, etc.
+  * Libraries: PyTorch, Pandas, NumPy, Matplotlib, SciPy, etc.
+* Softwares: VS Code, MATLAB, PyCharm, RStudio, Stata, SPSS, NVivo, Neo4j, Adobe, C4D, etc.
+* Clinical Skills: Cardiopulmonary resuscitation, venous blood collection, injection techniques, nasal feeding, nucleic acid testing, aseptic techniques, vital sign monitoring, etc.
+* Languages: Chinese Mandarin (Native), English (Fluent), Chinese Cantonese (Conversational)
+
   
 Talks
 ======
