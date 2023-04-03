@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 [CV of Yanwei JIN (PDF)](http://yanweijin.github.io/files/cv_jyw.pdf)
+
+
 Education
 -----
 * B.S. in Nursing, Peking University, 2022
