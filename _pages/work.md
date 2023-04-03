@@ -1,20 +1,23 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+{% include base_path %}
 
-Heading 1
+Education
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+* B.S. in Nursing, Peking University, 2022
+  * Relevant Courses:
+    * Medicine: Epidemiology and Social Medicine, Biochemistry.
+    * Math: Probability and Statistics, Linear Algebra, Advanced Mathematics, Biostatistics.
+    * Data Science: Learning Data Science with Python, Introduction to Database Systems.
+  * Awards & Honors:     
+    * Second Prize in Peking University Public Medical Science Education Competition (2021)
+    * Third Prize in National College Student Challenge Cup Competition for an ankle dynamometer (2021)
+    * First Prize in National College Student Innovative Experimental Project of China(2020)
+    * Second Prize in Beijing Contest District in China Undergraduate Mathematical Contest in Modeling (2019)
+    * Peking University Social Welfare Scholarship (2019)
