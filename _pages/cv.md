@@ -31,9 +31,9 @@ Research experience
   * Hong Kong Centre for Cerebro-Cardiovascular Health Engineering
   * Supervisor: Yuanting ZHANG(Chair Professor)
   * Research Assistant: 
-    * Studied blood pressure (BP) monitoring and analysis based on PPG and PTT.
-    * Applied noise reduction techniques to ECG, BP, and PTT data using scipy, pandas, and other tools.
-    * Learned deep learning and developed a predictive BP model to improve accuracy.
+    * Applied noise reduction techniques to ECG, BP, and PTT data using scipy, pandas, and other tools. 
+    * Analyzed BP prediction models based on PTT and PPG.
+    * Produced BP prediction models and improved accuracy by Machine Learning.
     
 * Construction of a knowledge graph-based chronic disease risk prediction model and health management pathway in the context of big data based on knowledge graph under the background of Big Data (National Natural Science Foundation of China)
   * Jul 2022-Present
@@ -41,7 +41,7 @@ Research experience
   * Supervisor: Hongyu SUN(Secretary General of Chinese Nursing Association)
   * Research Assistant: 
     * Used tools like selenium and requests to extract chronic disease risk factors from web content.
-    * Standardized and analyzed collected data using natural language processing techniques.
+    * Standardized and analyzed collected data using Natural Language Processing techniques.
     * Utilized spaCy library to construct a knowledge graph related to chronic disease risk factors and health management.
      
 * Public risk perception, behavior patterns and emotional guidance under major public health emergency (Beijing Natural Science Foundation Committee)
@@ -51,20 +51,20 @@ Research experience
   * First author of a systematic review on public coping behavior during COVID-19:
     * Systematically searched COVID-19-related literature on public risk perception and coping behaviors in databases like PubMed; conducted quality assessment and content extraction.
     * Performed meta-analysis using Stata, subgroup analysis, and meta-regression to investigate sources of heterogeneity.
-    * Conducted sensitivity analysis and Egger's test for bias detection* 
+    * Conducted sensitivity analysis and Egger's test for bias detection.
   * Author of a qualitative study on healthcare workers' risk perception during public health emergencies:
-    * Developed interview outlines after reviewing related literature
-    * Conducted interviews with healthcare workers, recording and transcribing sessions for analysis
-    * Used Nvivo tool and Colaizzi's 7-step analysis method to extract key information and construct a time-based risk perception model
+    * Developed interview outlines after reviewing related literature.
+    * Conducted interviews with healthcare workers, recording and transcribing sessions for analysis.
+    * Used Nvivo tool and Colaizzi's 7-step analysis method to extract key information and construct a time-based risk perception model.
 
 * Home care guide for the elderly with dementia (National College Student Innovative Experimental Project of China)
   * Sep 2019-Oct 2020
   * Peking University
   * Supervisor: Zhiwen Wang(Member of the American Academy of Nursing)
   * Duties included: 
-    * Conducted systematic searches of databases and websites of dementia associations to obtain high-quality literature; performed quality assessment and content extraction
-    * Completed textual content for the guide in consultation with clinical experts in the treatment and care of dementia patients
-    * Utilized AutoCAD software to create 2D and 3D illustrations for the guide
+    * Conducted systematic searches of databases and websites of dementia associations to obtain high-quality literature; performed quality assessment and content extraction.
+    * Completed textual content for the guide in consultation with clinical experts in the treatment and care of dementia patients.
+    * Utilized AutoCAD software to create 2D and 3D illustrations for the guide.
 
 Publications
 -----
