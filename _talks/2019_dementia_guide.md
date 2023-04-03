@@ -4,7 +4,7 @@ collection: talks
 type: "Research Assistant"
 permalink: /talks/2019_dementia_guide
 venue: "Supervisor: Zhiwen Wang (Member of the American Academy of Nursing)"
-date: Sep 2019 - Oct 2020
+date: 2019-10-01
 location: "Peking University, China"
 ---
 Duties include: 
