@@ -66,7 +66,6 @@ Research experience
     * Completed textual content for the guide in consultation with clinical experts in the treatment and care of dementia patients
     * Utilized AutoCAD software to create 2D and 3D illustrations for the guide
 
-
 Publications
 -----
   <ul>{% for post in site.publications %}
@@ -91,7 +90,6 @@ Skills
 * Clinical Skills: Cardiopulmonary resuscitation, venous blood collection, injection techniques, nasal feeding, nucleic acid testing, aseptic techniques, vital sign monitoring, etc.
 * Languages: Chinese Mandarin (Native), English (Fluent), Chinese Cantonese (Conversational)
 
-  
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
