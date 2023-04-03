@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Public risk perceptions and coping behaviors in novel coronavirus pneumonia outbreaks: a systematic review"
 collection: publication
 permalink: /publications/2023-03-pub-risk-review
 excerpt: 'This paper is about systematically evaluate the level of public perception of the risk of the novel coronavirus pneumonia epidemic and the response behavior of various countries.'
