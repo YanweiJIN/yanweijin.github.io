@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Work & Activitiese"
+title: "Work & Activities"
 permalink: /work/
 author_profile: true
 redirect_from:
