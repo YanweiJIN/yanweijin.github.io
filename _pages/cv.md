@@ -95,5 +95,6 @@ Skills
 
 
 
+[jyw_cv.pdf](https://github.com/YanweiJIN/yanweijin.github.io/files/11137906/jyw_cv.pdf)
 
 
