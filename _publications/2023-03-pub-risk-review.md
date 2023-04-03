@@ -1,9 +1,9 @@
 ---
 title: "Paper Title Number 2"
 collection: publication
-permalink: /publications/2023-03-Pub-risk-review
+permalink: /publications/2023-03-pub-risk-review
 excerpt: 'This paper is about systematically evaluate the level of public perception of the risk of the novel coronavirus pneumonia epidemic and the response behavior of various countries.'
-date: 2023-03
+date: 2023-03-08
 venue: 'Chinese Journal of Nursing Education'
 paperurl: 'http://yanweijin.github.io/files/paper2.pdf'
 citation: 'Jin YW, Sun HY, Ji Y. (2023). &quot;Public risk perceptions and coping behaviors in novel coronavirus pneumonia outbreaks: a systematic review.&quot; <i>Chinese Journal of Nursing Education</i>. (Will be published in April, 2023).'
