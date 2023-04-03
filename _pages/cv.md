@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV of Yanwei Jin"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+-----
 * B.S. in Nursing, Peking University, 2022
   * Relevant Courses:
     * Medicine: Epidemiology and Social Medicine, Biochemistry.
@@ -25,7 +25,7 @@ Education
 
 
 Research experience
-======
+-----
 * Cuffless dynamic blood pressure monitoring model
   * Jan 2023-Present
   * Hong Kong Centre for Cerebro-Cardiovascular Health Engineering
@@ -68,14 +68,14 @@ Research experience
 
 
 Publications
-======
+-----
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 
 Work experience
-======
+-----
 * Jan 2023-Present: Nurse Trainee
   * Peking University First Hospital
   * Supervisor: Hongyan Guo (Head Nurse)
@@ -84,7 +84,7 @@ Work experience
     * Completed clinical nursing operations as required by each ward.
 
 Skills
-======
+-----
 * Programming languages: Python (Deep Learning), SQL, JavaScript, HTML/CSS, R, etc.
   * Libraries: PyTorch, Pandas, NumPy, Matplotlib, SciPy, etc.
 * Softwares: VS Code, MATLAB, PyCharm, RStudio, Stata, SPSS, NVivo, Neo4j, Adobe, C4D, etc.
