@@ -3,7 +3,7 @@ title: "Evolution of risk perception of medical staff during public health emerg
 collection: publication
 permalink: /publications/2022-08-evol-quali-study
 excerpt: 'This paper is about exploring the evolution law for risk perception of medical staff during public health emergencies so as to provide decision support for assessing the risk perception status of medical staff, predicting their behavioral changes and guiding their emotional responses. '
-date: 2022-08
+date: 2022-08-14
 venue: 'Modern Clinical Nursing'
 paperurl: http://yanweijin.github.io/files/paper1.pdf
 citation: 'Li YQ, Gu JN, Sun YM, Shao J, Dang Y, Guo JM, Jin YW, Hu GY, Sun HY. (2022). "Evolution of risk perception of medical staff during public health emergencies: a qualitative study." <i>Modern Clinical Nursing</i>. 21(08):43-47.'
