@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV of Yanwei Jin"
+title: "[CV of Yanwei Jin](http://yanweijin.github.io/files/cv_jyw.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
