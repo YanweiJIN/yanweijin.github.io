@@ -84,8 +84,8 @@ Work experience
 
 Skills
 -----
-* Programming languages: Python (Deep Learning), SQL, JavaScript, HTML/CSS, R, etc.
-  * Libraries: PyTorch, Pandas, NumPy, Matplotlib, SciPy, etc.
+* Programming Languages: Python (Deep Learning), SQL, JavaScript, HTML/CSS, R, etc.
+* Libraries: PyTorch, Pandas, NumPy, Matplotlib, SciPy, etc.
 * Softwares: VS Code, MATLAB, PyCharm, RStudio, Stata, SPSS, NVivo, Neo4j, Adobe, C4D, etc.
 * Clinical Skills: Cardiopulmonary resuscitation, venous blood collection, injection techniques, nasal feeding, nucleic acid testing, aseptic techniques, vital sign monitoring, etc.
 * Languages: Chinese Mandarin (Native), English (Fluent), Chinese Cantonese (Conversational)
