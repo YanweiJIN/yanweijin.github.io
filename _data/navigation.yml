@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publication"
     url: /publications/
 
   - title: "Research"
@@ -8,11 +8,8 @@ main:
 
   - title: "Work"
     url: /teaching/    
-  
-  - title: "Education"
-    url: /teaching/  
  
-  - title: "Honors"
+  - title: "Honor"
     url: /talks/  
     
  # - title: "Portfolio"
