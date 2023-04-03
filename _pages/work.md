@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Work Experience"
+title: "Work & Social Activitiese"
 permalink: /work/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Peking University First Hospital
+Nurse Trainee at Peking University First Hospital
 ======
 Nurse Trainee, Supervisor: Hongyan Guo (Head Nurse), Jul 2021 – May 2022
 * Surgical Ward: Prepared patients for surgery and provided post-operative care, including health education, skin preparation, subcutaneous injections, intravenous injections, venous blood collection, fluid drainage, enemas, dressing changes, nasal feeding, oral care, and skin care.
