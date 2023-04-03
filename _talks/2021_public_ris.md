@@ -4,7 +4,7 @@ collection: talks
 type: "Research Assistan"
 permalink: /talks/2021_public_ris
 venue: "Supervisor: Hongyu Sun (Secretary General of Chinese Nursing Association)"
-date: Jul 2021 – Jul 2022
+date: 2021-07-17
 location: "Peking University, China"
 ---
 Duties include:
