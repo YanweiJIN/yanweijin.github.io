@@ -23,11 +23,32 @@ Research experience
     2.Applied noise reduction techniques to ECG, BP, and PTT data using scipy, pandas, and other tools
     3.Learned deep learning and developed a predictive BP model to improve accuracy
     
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jul 2022-Present: Research Assistant
+  * Peking University
+  * Supervisor: Hongyu SUN(Secretary General of Chinese Nursing Association)
+  * Subject Name: Construction of a knowledge graph-based chronic disease risk prediction model and health management pathway in the context of big data based on knowledge graph under the background of Big Data(National Natural Science Foundation of China)
+  * Duties included: 
+    1.Used tools like selenium and requests to extract chronic disease risk factors from web content.
+    2.Standardized and analyzed collected data using natural language processing techniques.
+    3.Utilized spaCy library to construct a knowledge graph related to chronic disease risk factors and health management.
+     
+* Jul 2022-Present: Research Assistant
+  * Peking University
+  * Supervisor: Hongyu SUN(Secretary General of Chinese Nursing Association)
+  * Subject Name: Construction of a knowledge graph-based chronic disease risk prediction model and health management pathway in the context of big data based on knowledge graph under the background of Big Data(National Natural Science Foundation of China)
+  * Duties included: 
+    1.Used tools like selenium and requests to extract chronic disease risk factors from web content.
+    2.Standardized and analyzed collected data using natural language processing techniques.
+    3.Utilized spaCy library to construct a knowledge graph related to chronic disease risk factors and health management.
+   
+* Jul 2022-Present: Research Assistant
+  * Peking University
+  * Supervisor: Hongyu SUN(Secretary General of Chinese Nursing Association)
+  * Subject Name: Construction of a knowledge graph-based chronic disease risk prediction model and health management pathway in the context of big data based on knowledge graph under the background of Big Data(National Natural Science Foundation of China)
+  * Duties included: 
+    1.Used tools like selenium and requests to extract chronic disease risk factors from web content.
+    2.Standardized and analyzed collected data using natural language processing techniques.
+    3.Utilized spaCy library to construct a knowledge graph related to chronic disease risk factors and health management.
   
 Skills
 ======
