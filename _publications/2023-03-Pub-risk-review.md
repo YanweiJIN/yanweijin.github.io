@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 2"
 collection: publication
-permalink: /publication/2023-03-Pub-risk-review
+permalink: /publications/2023-03-Pub-risk-review
 excerpt: 'This paper is about systematically evaluate the level of public perception of the risk of the novel coronavirus pneumonia epidemic and the response behavior of various countries.'
 date: 2023-03
 venue: 'Chinese Journal of Nursing Education'
