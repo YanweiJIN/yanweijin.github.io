@@ -4,7 +4,7 @@ collection: talks
 type: "Research Assistant"
 permalink: /talks/2022_knolg_graph
 venue: "Supervisor: Hongyu Sun (Secretary General of Chinese Nursing Association)"
-date: Jul 2022 – Present
+date: 2022-07-17
 location: "Peking University, China"
 ---
 Duties include: 
