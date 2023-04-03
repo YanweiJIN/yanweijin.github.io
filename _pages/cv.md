@@ -11,16 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Nursing, Peking University, 2022
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2023-Present: Research Assistant
+  * Hong Kong Centre for Cerebro-Cardiovascular Health Engineering
+  * Supervisor: Yuanting ZHANG(Chair Professor)
+  * Duties included: 
+    1.Studied blood pressure (BP) monitoring and analysis based on PPG and PTT
+    2.Applied noise reduction techniques to ECG, BP, and PTT data using scipy, pandas, and other tools
+    3.Learned deep learning and developed a predictive BP model to improve accuracy
+    
 
 * Fall 2015: Research Assistant
   * Github University
