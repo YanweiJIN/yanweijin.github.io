@@ -1,7 +1,7 @@
 ---
 title: "Home Care Guide for the Elderly with Dementia (National College Student Innovation and Entrepreneurship Practice Project of China)"
 collection: research
-type: "Research"
+type: "Research Assistant"
 permalink: /research/2019_dementia_guide
 venue: "Supervisor: Zhiwen Wang (Member of the American Academy of Nursing)"
 date: Sep 2019 - Oct 2020
