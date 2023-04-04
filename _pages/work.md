@@ -11,7 +11,7 @@ redirect_from:
 
 Nurse Trainee at Peking University First Hospital
 -----
-Supervisor: Hongyan Guo (Head Nurse), Jul 2021 – May 2022
+Supervisor: Hongyan GUO (Head Nurse), Jul 2021 – May 2022
 * **Surgical Ward**: Prepared patients for surgery and provided post-operative care, including health education, skin preparation, subcutaneous injections, intravenous injections, venous blood collection, fluid drainage, enemas, dressing changes, nasal feeding, oral care, and skin care.
 * **Internal Medicine Ward**: Provided daily care for chronic disease patients, including vital sign monitoring, blood glucose measurement, electrocardiogram collection, intramuscular injections, central venous catheter placement, and blood sample analysis.
 * **Obstetrics and Gynecology Ward**: Offered prenatal and postnatal care for pregnant women, including fetal heart monitoring, labor timing assessment, assisting midwives during delivery, placenta examination, perineal irrigation, and intravenous transfusion.
