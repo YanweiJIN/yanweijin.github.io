@@ -29,7 +29,7 @@ Education
 
 Research experience
 -----
-* Cuffless dynamic blood pressure monitoring model
+* **Cuffless dynamic blood pressure monitoring model**
   * Jan 2023-Present
   * Hong Kong Centre for Cerebro-Cardiovascular Health Engineering
   * Supervisor: Yuanting ZHANG(Chair Professor)
@@ -38,7 +38,7 @@ Research experience
     * Analyzed BP prediction models based on PTT and PPG.
     * Produced BP prediction models and improved accuracy by Machine Learning.
     
-* Construction of a knowledge graph-based chronic disease risk prediction model and health management pathway in the context of big data based on knowledge graph under the background of Big Data (National Natural Science Foundation of China)
+* **Construction of a knowledge graph-based chronic disease risk prediction model and health management pathway in the context of big data based on knowledge graph under the background of Big Data** (National Natural Science Foundation of China)
   * Jul 2022-Present
   * Peking University
   * Supervisor: Hongyu SUN(Secretary General of Chinese Nursing Association)
@@ -47,7 +47,7 @@ Research experience
     * Standardized and analyzed collected data using Natural Language Processing techniques.
     * Utilized spaCy library to construct a knowledge graph related to chronic disease risk factors and health management.
      
-* Public risk perception, behavior patterns and emotional guidance under major public health emergency (Beijing Natural Science Foundation Committee)
+* **Public risk perception, behavior patterns and emotional guidance under major public health emergency** (Beijing Natural Science Foundation Committee)
   * Jul 2021-Jul 2022
   * Peking University
   * Supervisor: Hongyu SUN(Secretary General of Chinese Nursing Association)
@@ -60,7 +60,7 @@ Research experience
     * Conducted interviews with healthcare workers, recording and transcribing sessions for analysis.
     * Used Nvivo tool and Colaizzi's 7-step analysis method to extract key information and construct a time-based risk perception model.
 
-* Home care guide for the elderly with dementia (National College Student Innovative Experimental Project of China)
+* **Home care guide for the elderly with dementia** (National College Student Innovative Experimental Project of China)
   * Sep 2019-Oct 2020
   * Peking University
   * Supervisor: Zhiwen Wang(Member of the American Academy of Nursing)
