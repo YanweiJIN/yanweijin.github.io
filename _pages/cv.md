@@ -63,7 +63,7 @@ Research experience
 * **Home care guide for the elderly with dementia** (National College Student Innovative Experimental Project of China)
   * Sep 2019-Oct 2020
   * Peking University
-  * Supervisor: Zhiwen Wang(Member of the American Academy of Nursing)
+  * Supervisor: Zhiwen WANG(Member of the American Academy of Nursing)
   * Duties included: 
     * Conducted systematic searches of databases and websites of dementia associations to obtain high-quality literature; performed quality assessment and content extraction.
     * Completed textual content for the guide in consultation with clinical experts in the treatment and care of dementia patients.
@@ -80,7 +80,7 @@ Work experience
 -----
 * Jan 2023-Present: Nurse Trainee
   * Peking University First Hospital
-  * Supervisor: Hongyan Guo (Head Nurse)
+  * Supervisor: Hongyan GUO (Head Nurse)
   * Duties included: 
     * Rotated through Surgical Ward, Internal Medicine Ward, Obstetrics and Gynecology Ward, Pediatric Ward, Psychiatric Ward, Emergency Ward and Community Hospital.
     * Completed clinical nursing operations as required by each ward.
