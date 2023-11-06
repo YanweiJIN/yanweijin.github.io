@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yanwei JIN(靳颜蔚)"
 title_separator          : "-"
 name                     : &name "Yanwei JIN"
-description              : &description "Research Assistant at COCHE HK"
+description              : &description "R.A. at COCHE HK"
 url                      : https://yanweijin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yanweijin.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yanwei JIN (靳颜蔚)"
   avatar           : "profilejyw1.JPG"
-  bio              : "Research Assistant at COCHE HK"
+  bio              : "R.A. at COCHE HK"
   location         : "Hong Kong, China"
   employer         : # "Prof. Yuanting ZHANG (张元亭教授)"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0007-9394-8333"# "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
