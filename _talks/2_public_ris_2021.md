@@ -3,13 +3,12 @@ title: "Public Risk Perception, Behavior Patterns, and Emotional Guidance Under 
 collection: talks
 type: "Supervisor: SUN Hongyu"
 permalink: /talks/2_public_ris_2021
-venue: "Beijing Natural Science Foundation Committee"
+venue: #"Beijing Natural Science Foundation Committee"
 date: "Jul 2021 - Jun 2022"
 location: "Peking University, China"
 ---
 
-Introduction:
-This research was a qualitative study that focused on the public's preventive actions and responses to major public health emergencies. We conducted extensive interviews in China and analyzed the gathered information to advance our research. My contributions to this research comprised two main components:
+This research project, supported by the Beijing Natural Science Foundation Committee, involved a qualitative study concentrating on the public's preventive actions and responses to major public health emergencies. We conducted in-depth interviews across China and meticulously analyzed the gathered data to enhance our research. My contributions to this study encompassed two primary areas:
 1. Public Reaction to COVID-19:
    * Conducted a comprehensive search for COVID-19-related literature regarding public risk perception and coping behaviors, utilizing databases such as PubMed. Conducted quality assessments and extracted relevant content.
    * Employed Stata to perform meta-analysis, subgroup analysis, and meta-regression, summarizing the findings and identifying sources of heterogeneity within the included literature.
