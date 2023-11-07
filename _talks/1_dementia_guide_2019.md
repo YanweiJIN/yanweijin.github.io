@@ -1,7 +1,7 @@
 ---
 title: "Home Care Guide for the Elderly with Dementia"
 collection: talks
-type: "Project under National College Student Innovation and Entrepreneurship Practice in China"
+type: "National College Student Innovation and Entrepreneurship Practice"
 permalink: /talks/1_dementia_guide_2019
 venue: "Supervisor: WANG Zhiwen(王志稳)"
 date: Oct 2019 - Sep 2020
