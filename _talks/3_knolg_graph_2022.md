@@ -1,10 +1,10 @@
 ---
-title: "Construction of a Knowledge Graph-Based Chronic Disease Risk Prediction Model and Health Management Pathway in the Context of Big Data (National Natural Science Foundation of China)"
+title: "Construction of a Knowledge Graph-Based Chronic Disease Risk Prediction Model and Health Management Pathway in the Context of Big Data"
 collection: talks
-type: "Research Assistant"
-permalink: /talks/2022_knolg_graph
-venue: "Supervisor: Hongyu Sun (Secretary General of Chinese Nursing Association)"
-date: 2022-07-17
+type: "[National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/index.html)"
+permalink: /talks/3_knolg_graph_2022
+venue: "Supervisor: SUN Hongyu(孙宏玉)"
+date: Jan 2022 - Jan 2023
 location: "Peking University, China"
 ---
 Duties include: 
