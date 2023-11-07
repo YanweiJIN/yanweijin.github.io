@@ -7,6 +7,8 @@ venue: "Supervisor: Yuanting ZHANG (Chair Professor)"
 date: 2023-01-24
 location: "Hong Kong Science Park, China"
 ---
+
+
 Duties include: 
 * Studied blood pressure (BP) monitoring and analysis based on PPG and PTT
 * Applied noise reduction techniques to ECG, BP, and PTT data using scipy, pandas, and other tools
