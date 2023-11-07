@@ -1,7 +1,7 @@
 ---
 title: "Home Care Guide for the Elderly with Dementia"
 collection: talks
-type: "Supervisor: [Zhiwen Wang](https://www.aminer.org/profile/wang-zhi-wen/56075b7545cedb3396a8f44e)"
+type: "Supervisor: [WANG Zhiwen](https://www.aminer.org/profile/wang-zhi-wen/56075b7545cedb3396a8f44e)"
 permalink: /talks/1_dementia_guide_2019
 venue: #"Supervisor: Zhiwen Wang (Member of the American Academy of Nursing)"
 date: "Oct 2019 - Sep 2020"
