@@ -1,9 +1,9 @@
 ---
 title: "Public Risk Perception, Behavior Patterns, and Emotional Guidance Under Major Public Health Emergency"
 collection: talks
-type: "Supervisor: [SUN Hongyu](https://nursing.bjmu.edu.cn/jgsz/jxdw/hlxrwjys/jsmd5/sunhongyu.htm)"
+type: "Supervisor: SUN Hongyu"
 permalink: /talks/2_public_ris_2021
-venue: "Project Under Beijing Natural Science Foundation Committee"
+venue: "Beijing Natural Science Foundation Committee"
 date: "Jul 2021 - Jun 2022"
 location: "Peking University, China"
 ---
