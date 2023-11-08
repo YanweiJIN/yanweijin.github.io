@@ -16,7 +16,7 @@ This research marked a significant milestone in my transition from Nursing to Bi
 2. **Investigating the Relationship Between PPG, ECG, Reference BP, and Estimated BP**:
    * I utilized LSTM and Random Forest (RF) models for estimating blood pressure waveforms.
    * I calculated the correlation coefficient (CC) for Reference BP & Estimated BP, PPG & Estimated BP, and ECG & Estimated BP.
-   * [Result](https://yanweijin.github.io/images/ccmae.png):
+![Result](https://yanweijin.github.io/images/ccmae.png)
 3. **Optimal Feature Set for Blood Pressure Estimation**:
    * I Conducted a review of a published article: [Beat-to-beat continuous blood pressure estimation with optimal feature set of PPG and ECG signals using deep recurrent neural networks](https://www.oaepublish.com/articles/2574-1209.2023.30).
    * I performed statistical analyses in this article.
