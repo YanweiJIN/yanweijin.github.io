@@ -13,9 +13,9 @@ This research project, supported by the **Beijing Natural Science Foundation Com
    * Conducted a comprehensive search for COVID-19-related literature regarding public risk perception and coping behaviors, utilizing databases such as PubMed. Conducted quality assessments and extracted relevant content.
    * Employed Stata to perform **meta-analysis, subgroup analysis, and meta-regression**, summarizing the findings and identifying sources of heterogeneity within the included literature.
    * Executed **sensitivity analyses** and Egger's tests to ensure the robustness of our research outcomes.
-   * Consolidated the above findings and **authored a paper as the first author**. This paper received citations from the World Health Organization (WHO).
+   * Consolidated the above findings and **authored a paper as the first author**. This paper received citations from the [World Health Organization (WHO)](https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/fr/covidwho-20245482).
 2. Healthcare Providers' Responses during Public Health Emergencies:
    * Developed an interview protocol for interactions with healthcare providers and conducted interviews in Beijing to collect research materials.
    * Applied **Colaizzi's 7-step analysis method** and utilized **NVIVO** for key information extraction.
-   * Formulated a time-based **risk perception model**.
+   * Formulated a [time-based risk perception model](https://yanweijin.github.io/files/time_risk_model.pdf).
    * Contributed to the paper's development process.
