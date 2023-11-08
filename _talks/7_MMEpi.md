@@ -2,7 +2,7 @@
 title: "Multi-Modal Epilepsy Prediction"
 collection: talks
 type: "Research Assistant"
-permalink: /talks/6_MMBP
+permalink: /talks/7_MMEpi
 venue: "Supervisor: Prof. Raymond HF CHAN, Prof. Ho Man CHAN, Prof. Bee Luan KHOO"
 date: Aug 2023 - Present
 location: "HK COCHE"
