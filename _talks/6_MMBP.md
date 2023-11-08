@@ -7,15 +7,10 @@ venue: "Supervisor: ZHANG Yuanting(张元亭)"
 date: Aug 2023 - Present
 location: "HK COCHE"
 ---
-
-This research marked a significant milestone in my transition from Nursing to Biostatistics, as it introduced me to the world of **signal processing** and **machine learning** for **disease estimation**. I am deeply grateful to Prof. ZHANG for his invaluable guidance and patience throughout this project. My work during this period encompassed three main components:
-1. **Replicating Research on Blood Pressure Estimation**: In this part, I focused on replicating a paper that used machine learning models to estimate blood pressure (BP) based on photoplethysmogram (PPG) and electrocardiogram (ECG) signals. My tasks included:
-   * **Data Preprocessing**: I worked with a dataset of 600 patients from the MIMIC-II database.
-   * **Feature Extraction**: I extracted 13 essential features from the PPG and ECG signals, including pulse transit time (PTT), various amplitudes (T-wave, Q-wave, R-peak, S-peak, Low-peak), QRS intervals, R to low-peak amplitudes, R-peak intervals, PPG pulse amplitude, PPG pulse width, PPG high to low interval, and PPG slope change standard deviation.
-   * **Machine Learning Models**: I applied several machine learning models in BP estimation, including Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), Random Forest (RF), and Linear Models. Notably, the LSTM model outperformed the others.
-2. **Investigating the Relationship Between PPG, ECG, Reference BP, and Estimated BP**:
-   * I utilized LSTM and Random Forest (RF) models for **estimating blood pressure waveforms**.
-   * I **calculated the correlation coefficient (CC)** for Reference BP & Estimated BP, PPG & Estimated BP, and ECG & Estimated BP.
-3. **Optimal Feature Set for Blood Pressure Estimation**:
-   * I Conducted a review of a published paper.
-   * I performed statistical analyses.
+This is part of Ms. Xiang Ting's PhD program at City University, where we employ a variety of physiological signals, including PPG, ECG, IPG, and temperature, to estimate blood pressure using both machine learning and mathematical models. The data for all subjects was obtained from COCHE Lab, and my contributions to this project encompass the following tasks:
+1. [Data Preprocessing](https://yanweijin.github.io/images/mmbp_preprocess.png): I handled the preprocessing of the multi-modal data, ensuring its suitability for analysis.
+2. [Feature Extraction and Normalization](https://yanweijin.github.io/images/mmbp_features.png): I extracted relevant features from the data and normalized them for consistency.
+3. [Model Evaluation](https://yanweijin.github.io/images/mmbp_mlresult.png): I conducted extensive evaluations of different machine learning models for blood pressure estimation.
+   * [LSTM Model](https://yanweijin.github.io/images/mmbp_lstm_sg.jpeg) performed best. [This is one of the results](https://yanweijin.github.io/images/mmbp_lstmresult.png).
+4. Research Paper: I participated in the development of our first research paper, which involved comparisons with mathematical models.
+5. Second Paper Preparation: Currently, I'm working on incorporating additional data into our models and preparing a second research paper.
