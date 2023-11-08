@@ -3,7 +3,7 @@ title: "Home Care Guide for the Elderly with Dementia"
 collection: talks
 type: "Undergraduate"
 permalink: /talks/1_dementia_guide_2019
-venue: "Supervisor: WANG Zhiwen(王志稳)"
+venue: "Supervisor: Prof. WANG Zhiwen(王志稳)"
 date: Oct 2019 - Sep 2020
 location: "Peking University, China"
 ---
