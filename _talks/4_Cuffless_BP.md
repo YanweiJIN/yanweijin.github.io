@@ -13,10 +13,11 @@ This research marked a significant milestone in my transition from Nursing to Bi
    * **Data Preprocessing**: I worked with a dataset of 600 patients from the MIMIC-II database.
    * **Feature Extraction**: I extracted 13 essential features from the PPG and ECG signals, including pulse transit time (PTT), various amplitudes (T-wave, Q-wave, R-peak, S-peak, Low-peak), QRS intervals, R to low-peak amplitudes, R-peak intervals, PPG pulse amplitude, PPG pulse width, PPG high to low interval, and PPG slope change standard deviation.
    * **Machine Learning Models**: I applied several machine learning models in BP estimation, including Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), Random Forest (RF), and Linear Models. Notably, the LSTM model outperformed the others.
+![result](https://yanweijin.github.io/images/cufflessbp_01.png)
 2. **Investigating the Relationship Between PPG, ECG, Reference BP, and Estimated BP**:
    * I utilized LSTM and Random Forest (RF) models for estimating blood pressure waveforms.
    * I calculated the correlation coefficient (CC) for Reference BP & Estimated BP, PPG & Estimated BP, and ECG & Estimated BP.
-![Result](https://yanweijin.github.io/images/ccmae.png)
+![Result](https://yanweijin.github.io/images/ccmea.png)
 3. **Optimal Feature Set for Blood Pressure Estimation**:
    * I Conducted a review of a published article: [Beat-to-beat continuous blood pressure estimation with optimal feature set of PPG and ECG signals using deep recurrent neural networks](https://www.oaepublish.com/articles/2574-1209.2023.30).
    * I performed statistical analyses in this article.
