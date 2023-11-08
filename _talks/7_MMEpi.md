@@ -14,4 +14,4 @@ This is part of Ms. HUANG Ke's PhD program at City University of Hong Kong, wher
    ![Discrete Wavelet Transform (DWT)](https://yanweijin.github.io/images/DWT.png)
    ![EEGLab](https://yanweijin.github.io/images/eeglab.jpg)
 3. **Deep Learning-Based Feature Extraction:** I explored deep learning techniques for feature extraction from the multi-modal signals.
-   ![deep learning techniques](https://yanweijin.github.io/images/DWT.png)
+   ![deep learning techniques](https://yanweijin.github.io/images/mmepi_dlfeature.png)
