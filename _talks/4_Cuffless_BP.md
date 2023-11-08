@@ -1,5 +1,5 @@
 ---
-title: "Hong Kong Centre for Cerebro-Cardiovascular Health Engineering"
+title: "Cuffless Blood Pressure Estimation using PPG and ECG"
 collection: talks
 type: "Research Assistant"
 permalink: /talks/4_Cuffless_BP
