@@ -11,5 +11,4 @@ location: "HK COCHE"
 In this project, we utilized the MIMIC-IV dataset to develop a machine learning model for cardiovascular disease (CVD) classification. My responsibilities encompassed:
 * Identifying cardiovascular disease (CVD) subjects based on ICD codes.
 * Exploring the construction of a knowledge graph to identify potential associations with the CVDs' occupation.
-
 ![ICD code](http://yanweijin.github.io/images/ICD_code.png)
