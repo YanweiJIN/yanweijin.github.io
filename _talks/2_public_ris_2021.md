@@ -3,7 +3,7 @@ title: "Public Risk Perception, Behavior Patterns, and Emotional Guidance Under 
 collection: talks
 type: "Undergraduate"
 permalink: /talks/2_public_ris_2021
-venue: "Supervisor: SUN Hongyu(孙宏玉)"
+venue: "Supervisor: Prof. SUN Hongyu(孙宏玉)"
 date: "Jul 2021 - Jun 2022"
 location: "Peking University, China"
 ---
