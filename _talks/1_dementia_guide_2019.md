@@ -13,4 +13,4 @@ This research project was conducted as part of the **National College Student In
 * **Crafting the guidance document** based on the findings from my review and valuable insights from clinical experts and professors.
 * Utilizing AutoCAD software to **produce 2D and 3D illustrations** for the guide.
 
-[Access the Guidance Document Here](https://github.com/YanweiJIN/yanweijin.github.io/files/Dementia_guidance.pdf)
+[Access the Guidance Document Here](https://yanweijin.github.io/files/Dementia_guidance.pdf)
