@@ -16,4 +16,4 @@ In this project, we utilized the MIMIC-IV dataset to develop a machine learning 
 
 
 
-![ICD code](http://yanweijin.github.io/images/ICD_code.jpg)
+![ICD code](http://yanweijin.github.io/images/ICD_code.png)
