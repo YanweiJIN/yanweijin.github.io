@@ -16,6 +16,6 @@ This is part of Ms. XIANG Ting's PhD program at City University, where we employ
 ![Model Evaluation](https://yanweijin.github.io/images/mmbp_mlresult.png)
    * LSTM Model performed best.
      ![LSTM Model](https://yanweijin.github.io/images/mmbp_lstm_sg.jpeg)
-     ![LSTM results](https://yanweijin.github.io/images/mmbp_lstmresult.png)
+     ![LSTM results](https://yanweijin.github.io/images/mmbp_lstm_result.png)
 7. Research Paper: I participated in the development of our first research paper, which involved comparisons with mathematical models.
 8. Second Paper Preparation: Currently, I'm working on incorporating additional data into our models and preparing a second research paper.
