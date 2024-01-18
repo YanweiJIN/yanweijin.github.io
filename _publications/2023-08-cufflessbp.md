@@ -1,7 +1,7 @@
 ---
 title: "Beat-to-beat continuous blood pressure estimation with optimal feature set of PPG and ECG signals using deep recurrent neural networks"
 collection: publication
-permalink: /publications/2023-08-cufflessbp.md
+permalink: /publications/2023-08-cufflessbp
 excerpt: 'This paper is about exploring the evolution law for risk perception of medical staff during public health emergencies so as to provide decision support for assessing the risk perception status of medical staff, predicting their behavioral changes and guiding their emotional responses. '
 date: 2023-10-20
 venue: 'Vessel Plus'
