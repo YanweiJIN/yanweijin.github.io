@@ -12,10 +12,7 @@ This is part of Ms. XIANG Ting's PhD program at City University, where we employ
 ![Data Preprocessing](https://yanweijin.github.io/images/mmbp_preprocess.png)
 2. **Feature Extraction and Normalization**: I extracted relevant features from the data and normalized them for consistency.
 ![Feature Extraction and Normalization](https://yanweijin.github.io/images/mmbp_features.png)
-5. **Model Evaluation**: I conducted extensive evaluations of different machine learning models for blood pressure estimation.
-![Model Evaluation](https://yanweijin.github.io/images/mmbp_mlresult.png)
-   * LSTM Model performed best.
-     ![LSTM Model](https://yanweijin.github.io/images/mmbp_lstm_sg.jpeg)
-     ![LSTM results](https://yanweijin.github.io/images/mmbp_lstm_result.png)
-7. Research Paper: I participated in the development of our first research paper, which involved comparisons with mathematical models.
-8. Second Paper Preparation: Currently, I'm working on incorporating additional data into our models and preparing a second research paper.
+3. **Machine learning models**:  I employed a combination of a Convolutional Neural Network (CNN) and a Long Short-Term Memory (LSTM) model to extract features and estimate blood pressure.
+![CNN+LSTM](https://yanweijin.github.io/images/mmbp_model.png)
+4. **Results from Multiple Input Signals**: I fed various signal combinations and individual signals into the model, and the outcomes are as follows:
+![CNN+LSTM](https://yanweijin.github.io/images/mmbp_result.png)
