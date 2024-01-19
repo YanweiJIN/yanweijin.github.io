@@ -6,14 +6,17 @@ main:
   - title: "Publication"
     url: /publications/
 
+  - title: "Conference"
+    url: / conference/
+
   - title: "Work"
     url: /work/    
 
-  - title: "Certification"
-    url: /certification/  
-
   - title: "Course"
     url: /course/  
+    
+  - title: "Honor"
+    url: /honor/  
     
  # - title: "Portfolio"
  #   url: /portfolio/
