@@ -34,4 +34,7 @@ Math & Computer Science courses
 
 | Programm | Institution | Completion Date | Expiration Date |
 | --------------   | -- | -- | ------------- |
-| [CITI Program course: Human Research](citi1) | Massachusetts Institute of Technology Affiliates | 18-Aug-2023 | 18-Aug-2026 |
+| [CITI Program course: Human Research - Biomedical Research Investigators](https://github.com/YanweiJIN/yanweijin.github.io/blob/master/files/CITIbio.pdf) | Massachusetts Institute of Technology Affiliates | 18 Aug 2023 | 18 Aug 2026 |
+| [CITI Program course: Human Research - Dat or Specimens Only Research](https://github.com/YanweiJIN/yanweijin.github.io/blob/master/files/CITIdata.pdf) | Massachusetts Institute of Technology Affiliates | 18 Aug 2023 | 18 Aug 2026 |
+| [CITI Program course: CII Conflicts of Interest - Conflicts of Interest](https://github.com/YanweiJIN/yanweijin.github.io/blob/master/files/CITIcon.pdf) | Massachusetts Institute of Technology Affiliates | 18 Aug 2023 | 18 Aug 2027 |
+| [HKIE BMD Biomedical Engineering Conference 2023](https://github.com/YanweiJIN/yanweijin.github.io/blob/master/files/HKIE.pdf) | The Hong Kong Institution of Engineers | 11-12 Aug 2023 | N/A |
