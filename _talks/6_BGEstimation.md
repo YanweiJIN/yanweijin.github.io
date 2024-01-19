@@ -2,7 +2,7 @@
 title: "Blood Glucose Estimation"
 collection: talks
 type: "Research Assistant"
-permalink: /talks/8_BGEstimation
+permalink: /talks/6_BGEstimation
 venue: "Supervisor: Prof. Kannie WY CHAN"
 date: Nov 2023 - Present
 location: "HK COCHE"
