@@ -29,6 +29,6 @@ redirect_from:
 | Course Title | Institution | Weeks | Completion Date |
 | -------------- | --- | --- | ----------- |
 | Calculus | University of Pennsylvania | 12 | Sep 2022 |
-| [CITI Program Course: Human Research - Biomedical Research Investigators](http://yanweijin.github.io/files/CITIbio.pdf) | Massachusetts Institute of Technology Affiliates | 1 | 18 Aug 2023 |
-| [CITI Program Course: Human Research - Data or Specimens Only Research](http://yanweijin.github.io/files/CITIdata.pdf) | Massachusetts Institute of Technology Affiliates | 1 | 18 Aug 2023 |
-| [CITI Program Course: CII Conflicts of Interest - Conflicts of Interest](http://yanweijin.github.io/files/CITIcon.pdf) | Massachusetts Institute of Technology Affiliates | 1 | 18 Aug 2023 |
+| [CITI Program Course: Human Research - Biomedical Research Investigators](http://yanweijin.github.io/images/CITIbio.png) | Massachusetts Institute of Technology Affiliates | 1 | 18 Aug 2023 |
+| [CITI Program Course: Human Research - Data or Specimens Only Research](http://yanweijin.github.io/images/CITIdata.png) | Massachusetts Institute of Technology Affiliates | 1 | 18 Aug 2023 |
+| [CITI Program Course: CII Conflicts of Interest - Conflicts of Interest](http://yanweijin.github.io/images/CITIcon.png) | Massachusetts Institute of Technology Affiliates | 1 | 18 Aug 2023 |
