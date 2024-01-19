@@ -4,7 +4,7 @@ collection: talks
 type: "Research Assistant"
 permalink: /talks/6_BGEstimation
 venue: "Supervisor: Prof. Kannie WY CHAN"
-date: Nov 2023 - Present
+date: Jul 2023 - Present
 location: "HK COCHE"
 ---
 
