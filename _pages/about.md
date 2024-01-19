@@ -14,8 +14,6 @@ I am a **full-time research assistant** at the  [Hong Kong Centre for Cerebro-Ca
   3. **Machine Learning Model Development**: My role includes supporting the development of machine learning models for estimating vital health parameters, including blood pressure, blood glucose levels, and epilepsy prediction. 
   4. **Knowledge Graph Construction**: I contribute to the construction of knowledge graphs for disease classification, with a specific focus on Cardiovascular Diseases (CVDs). 
 
+I graduated from **Peking University** in the summer of 2022 with a **Bachelor of Science degree in Nursing**. My educational background has provided me with a strong foundation in health science. However, what truly excites me is the intersection of health science and data science. I possess solid mathematical and coding skills, allowing me to seamlessly blend these two fields.
 
-I hold a **Bachelor of Science in Nursing** from **Peking University**. During my undergraduate studies, I had the opportunity to participate in research projects, and I served as **the first author** of a published paper, which delved into a critical aspect of **COVID-19** and garnered recognition from **the World Health Organization (WHO)**. Additionally, my third paper, centered on **Blood Pressure Estimation**, was successfully published during my tenure at HK COCHE. 
-
-
-I am a **self-motivated** individual with a **strong passion for research**. I am willing to commit significant time to my work, dedicating up to 12 hours a day to deepen my understanding of the knowledge necessary for my job. My ultimate aspiration is to **contribute significantly to human health and scientific advancement**, with the goal of becoming a respected figure in the world of science. 
+My research interests primarily focus on the **application of machine learning in health science**, particularly in the realm of **daily health monitoring and alert** systems. I am passionate about leveraging my expertise to develop practical solutions for daily **wearable devices** that can enhance and improve people's health and well-being.
