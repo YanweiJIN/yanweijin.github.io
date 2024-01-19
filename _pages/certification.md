@@ -29,5 +29,9 @@ Math & Computer Science courses
 | --------------   | -- | -- | ------------- |
 | Calculus | 12 | UPenn | Sep, 2022 |
 
+Math & Computer Science courses
+-----
 
-
+| Programm | Institution | Completion Date | Expiration Date |
+| --------------   | -- | -- | ------------- |
+| [CITI Program course: Human Research](citi1) | Massachusetts Institute of Technology Affiliates | 18-Aug-2023 | 18-Aug-2026 |
