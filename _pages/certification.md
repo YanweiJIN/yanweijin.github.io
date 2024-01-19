@@ -1,12 +1,45 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+layout: archive
+title: "Courses & Certification"
+permalink: /certification/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
+redirect_from:
+  - /resume
 ---
 
+{% include base_path %}
+
+Biostatistics related courses
+-----
+### Peking University
+
+| Course Name      |  Credits | Grades | Terms |
+| --------         | ------ | ------------------------------------------------------------ | --- |
+| Computer Science   | 2016   | Description of the item in the list                          | 11 |
+| [Jane Doe](#)    | 2019   | Description of the item in the list                          | 22 |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          | 33 |
+
+Volunteer Work & Activities
+-----
+* **Health Communication conferences and academic salons**: Attended Health Communication conferences and academic salons held by the China Research Institute for Science Popularization, China Association for Science and Technology Journalism, and China Forum on Science and Technology Communication as a student presenter from 2020 to 2021.
+* **Entrepreneurship Survey of the Innovation Enterprises in China**: Participated twice in ESIEC events organized by the National School of Development at Peking University in 2021. 
+  * First Time: Received an Outstanding Interviewer Award for exceptional performance during the survey.
+  * Seconeand served as a Quality Control Officer during the second survey.
+* **Public service**: 
+  * Visited elderly individuals living alone, disabled children, and other vulnerable groups at least twice a month during college.
+  * Donated 200ml of blood annually.
+
+College Student Work & Activities
+-----
+* President of DNA Student Club of Peking University:
+  * Organized several inter-institutional cultural exchange events.
+  * Led club members on field trips to various regions, including Beijing, Hebei, Jiangsu, Guangdong, Hong Kong, etc.
+  * Earned several honors for the Club during my tenure.
+* Actively participated in campus events:
+  * Spoke as a new student representative at the Nursing College Freshman Orientation.
+  * Served as the host of the 2019 Freshman Orientation.
+  * Performed Taekwondo and Artistic Gymnastics in many Campus Performances.
+  * Won several prizes in women's 400m and 800m races in school sports events.
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
