@@ -11,7 +11,9 @@ redirect_from:
 
 Math & Computer Science Courses
 -----
-## Peking University
+
+### Peking University
+
 | Course Title | Hours | Grades | Academic Year |
 | -------------- | --- | --- | -------------- |
 | Computer Science | 72 | 88 | 2017-2018 / 1 |
@@ -24,7 +26,8 @@ Math & Computer Science Courses
 | Learning Data Science with Python | 48 | PASS | 2021-2022 / 2 |
 | Introduction to Database Systems | 54 | PASS | 2021-2022 / 2 |
 
-## Online Courses
+### Online Courses
+
 | Course Title | Weeks | Institution | Time |
 | -------------- | --- | --- | ----------- |
 | Calculus | 12 | UPenn | Sep 2022 |
