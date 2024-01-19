@@ -9,14 +9,14 @@ main:
   - title: "Conference"
     url: /conference/
 
-  - title: "Work"
-    url: /work/    
-
   - title: "Course"
     url: /course/  
     
   - title: "Honor"
     url: /honor/  
+
+  - title: "Work"
+    url: /work/    
     
  # - title: "Portfolio"
  #   url: /portfolio/
