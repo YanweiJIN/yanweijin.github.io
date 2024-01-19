@@ -2,7 +2,7 @@
 title: "Multi-Modal Blood Pressure Estimation"
 collection: talks
 type: "Research Assistant"
-permalink: /talks/6_MMBP
+permalink: /talks/8_MMBP
 venue: "Supervisor: Prof. ZHANG Yuanting(张元亭)"
 date: Aug 2023 - Present
 location: "HK COCHE"
