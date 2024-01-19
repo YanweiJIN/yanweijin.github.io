@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Conferences, Awards & Honors"
-permalink: /certification/
+title: "Awards & Honors"
+permalink: /honor/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,17 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Conferences
-
-| Conference | Participant | Date | Location | 
-| -------------- | --- | ---------------- | ---------------- |
-| The 21st IEEE International School and Symposium on Medical Devices and Biosensors in conjunction with The 14th International Symposium on Biomedical and Health Engineering (MDBS-BHE' 2023) | Reporter | 18-20 Dec 2023 | Hong Kong |
-| [HKIE BMD Biomedical Engineering Conference 2023](https://github.com/YanweiJIN/yanweijin.github.io/blob/master/files/HKIE.pdf) | Volunteer | 11-12 Aug 2023 | Hong Kong |
-| [2022 Forum on Emergency Response to Public Health Emergencies and Chronic Disease Health Management](https://github.com/YanweiJIN/yanweijin.github.io/blob/master/images/2022COVIDpaper.jpeg) | Paper Author | 3-4 Dec 2022 | Zhejiang |
-| Academic Salon on Health Science Communication in the Era of Integrated Media | Reporter | 15 Nov 2020 | Beijing |
-
-
-## Awards & Honors
 
 | Award & Honor | Institution | Year |
 | -------------- | --- | ---------------- |
