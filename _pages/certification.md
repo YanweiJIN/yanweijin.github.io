@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Math & Computer Science Courses
+## Math & Computer Science Courses
 -----
 
 ### Peking University
@@ -32,7 +32,7 @@ Math & Computer Science Courses
 | -------------- | --- | --- | ----------- |
 | Calculus | 12 | UPenn | Sep 2022 |
 
-Certifications
+## Certifications
 -----
 
 | Program | Institution | Completion Date | Expiration Date |
