@@ -8,12 +8,12 @@ main:
 
   - title: "Work"
     url: /work/    
- 
-  - title: "Honor"
-    url: /honor/  
 
   - title: "Certification"
     url: /certification/  
+
+  - title: "Course"
+    url: /course/  
     
  # - title: "Portfolio"
  #   url: /portfolio/
