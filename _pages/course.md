@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Courses & Certifications"
+title: "Math & Computer Science Courses"
 permalink: /course/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Math & Computer Science Courses
------
 
 ### Peking University
 
