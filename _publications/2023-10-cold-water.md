@@ -1,10 +1,10 @@
 ---
 title: " Effects of Cold Pressor Test on Heart Rate and Heart Rate Variability"
-collection: under review
+collection: publication
 permalink: /publications/2023-10-cold-water
 excerpt: 'This study aims to investigate the effects of cold pressor test (CPT) on heart rate (HR) and HR variability (HRV).'
-date: 2023-11-30
-venue: ''
+date: 2024-2-28
+venue: 'Connected Health And Telemedicine'
 paperurl: ''
 citation: ''
 ---
