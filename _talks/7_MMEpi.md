@@ -1,5 +1,5 @@
 ---
-title: "Multi-Modal Epilepsy Prediction"
+title: "Seizure Prediction in Epilepsy"
 collection: talks
 type: "Research Assistant"
 permalink: /talks/7_MMEpi
