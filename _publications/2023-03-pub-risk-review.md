@@ -13,4 +13,5 @@ citation: 'Jin YW, Sun HY, Ji Y. (2023). &quot;Public risk perceptions and copin
 **Key words** COVID-19; Risk perception; Coping behavior; Meta-analysis; Public health emergencies
 
 **DOI**: 10.3761/j.issn.1672-9234.2023.
-[Full Artical](http://yanweijin.github.io/files/)
+
+[Full Artical](http://yanweijin.github.io/files/paper2.pdf)
