@@ -4,7 +4,7 @@ collection: publication
 permalink: /publications/2023-10-cold-water
 excerpt: 'This study aims to investigate the effects of cold pressor test (CPT) on heart rate (HR) and HR variability (HRV).'
 date: 2023-11-30
-venue: 'Connected Health And Telemedicine'
+venue: ''
 paperurl: ''
 citation: ''
 ---
