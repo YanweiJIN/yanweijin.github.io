@@ -1,5 +1,5 @@
 ---
-title: "Multi-Modal Blood Pressure Estimation"
+title: "Cuffless Blood Pressure Estimation Using Multi-modal Bio-signals"
 collection: talks
 type: "Research Assistant"
 permalink: /talks/8_MMBP
