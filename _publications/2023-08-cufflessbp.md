@@ -2,7 +2,7 @@
 title: "Beat-to-beat continuous blood pressure estimation with optimal feature set of PPG and ECG signals using deep recurrent neural networks"
 collection: publication
 permalink: /publications/2023-08-cufflessbp
-excerpt: 'This paper is about exploring the evolution law for risk perception of medical staff during public health emergencies so as to provide decision support for assessing the risk perception status of medical staff, predicting their behavioral changes and guiding their emotional responses. '
+excerpt: 'The purpose of this study is to develop a deep recurrent neural network (RNN) model with optimal feature set of photoplethysmogram (PPG) and electrocardiogram (ECG) signals for continuous BP estimation. '
 date: 2023-10-20
 venue: 'Vessel Plus'
 paperurl: 'http://yanweijin.github.io/files/vp7030.pdf'
@@ -15,7 +15,7 @@ Conclusion: The experimental results suggest that the proposed deep RNN model wi
 
 **Graphical Abstract**:   
 ![vp7030](https://yanweijin.github.io/images/vp7030.jpg)
-**Keywords**：public health emergency; medical staff; risk perception; qualitative study;
+**Keywords**：Continuous blood pressure, Photoplethysmogram, Electrocardiogram, Feature selection, Recurrent neural network
 
 [Click to view this paper](https://www.oaepublish.com/articles/2574-1209.2023.30)
 
