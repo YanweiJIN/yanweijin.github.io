@@ -5,7 +5,7 @@ permalink: /publications/2023-08-cufflessbp
 excerpt: 'The purpose of this study is to develop a deep recurrent neural network (RNN) model with optimal feature set of photoplethysmogram (PPG) and electrocardiogram (ECG) signals for continuous BP estimation. '
 date: 2023-10-20
 venue: 'Vessel Plus'
-paperurl: 'http://yanweijin.github.io/files/vp7030.pdf'
+paperurl: 'https://www.oaepublish.com/articles/2574-1209.2023.30'
 citation: 'Chen H, Lyu L, Zeng Z, Jin Y, Zhang Y. Beat-to-beat continuous blood pressure estimation with optimal feature set of PPG and ECG signals using deep recurrent neural networks. Vessel Plus. 2023; 7: 21. http://dx.doi.org/10.20517/2574-1209.2023.30'
 ---
 **Abstract**：Aim: Continuous blood pressure (BP) monitoring can provide invaluable information for cardiovascular disease (CVD) diagnosis. The purpose of this study is to develop a deep recurrent neural network (RNN) model with an optimal feature set of photoplethysmogram (PPG) and electrocardiogram (ECG) signals for continuous BP estimation.
