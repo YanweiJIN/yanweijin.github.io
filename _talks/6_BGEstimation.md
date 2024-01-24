@@ -1,5 +1,5 @@
 ---
-title: "Blood Glucose Estimation"
+title: "Non-invasive Blood Glucose Prediction"
 collection: talks
 type: "Research Assistant"
 permalink: /talks/6_BGEstimation
