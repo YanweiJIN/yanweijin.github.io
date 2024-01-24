@@ -17,6 +17,6 @@ Conclusion: The experimental results suggest that the proposed deep RNN model wi
 ![vp7030](https://yanweijin.github.io/images/vp7030.jpg)
 **Keywords**：Continuous blood pressure, Photoplethysmogram, Electrocardiogram, Feature selection, Recurrent neural network
 
-[Click to view this paper](https://www.oaepublish.com/articles/2574-1209.2023.30)
-
 Recommended citation: Chen H, Lyu L, Zeng Z, Jin Y, Zhang Y. Beat-to-beat continuous blood pressure estimation with optimal feature set of PPG and ECG signals using deep recurrent neural networks. Vessel Plus 2023;7:21. http://dx.doi.org/10.20517/2574-1209.2023.30
+
+[Click to view this paper](https://www.oaepublish.com/articles/2574-1209.2023.30)
