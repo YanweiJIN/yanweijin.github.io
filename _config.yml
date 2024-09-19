@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Yanwei JIN(靳颜蔚)"
 title_separator          : "-"
-name                     : &name "Yanwei JIN"
-description              : &description "R.A. at COCHE HK"
+name                     : &name "Yana"
+description              : &description "Biostat MS in UMN"
 url                      : https://yanweijin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yanweijin.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yanwei JIN (靳颜蔚)"
+  name             : "Yana"
   avatar           : "profilejyw1.JPG"
-  bio              : "R.A. at COCHE HK"
-  location         : "Hong Kong, China"
+  bio              : "Biostat MS's student"
+  location         : "U of Minnesota"
   employer         : # "Prof. Yuanting ZHANG (张元亭教授)"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=ewqFvmQAAAAJ&hl=en&oi=ao"
   email            : "yanweijin68@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,20 +94,20 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/YanaJin030/"
   foursquare       :
-  github           : "yanweijin"
+  github           : "https://github.com/YanweiJIN"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/yanajin030/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0007-9394-8333"# "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/starryjin/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0007-9394-8333"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : 
   tumblr           :
   twitter          : # "replacethistwitterhandle"
   vine             :
