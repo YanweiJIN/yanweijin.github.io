@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Research"
-    url: /talks/    
+  #- title: "Research"
+  #  url: /talks/    
     
   - title: "Publication"
     url: /publications/
 
-  - title: "Conference"
-    url: /conference/
+  #- title: "Conference"
+  #  url: /conference/
 
-  - title: "Course"
-    url: /course/  
+  #- title: "Course"
+  #  url: /course/  
     
-  - title: "Honor"
-    url: /honor/  
+  #- title: "Honor"
+  #  url: /honor/  
 
-  - title: "Work"
-    url: /work/    
+  #- title: "Work"
+  #  url: /work/    
     
  # - title: "Portfolio"
  #   url: /portfolio/
