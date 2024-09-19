@@ -12,4 +12,4 @@ citation: 'T Xiang, ZJ Liu, YW Jin, N Ji and YT Zhang*. Wearables Cardiovascular
 
 **Keywords**：Heart rate, Heart rate variability, Cold pressor test, Cardiovascular activities
 
-[Preview](http://yanweijin.github.io/files/cold-water.pdf)
+[Preview](https://yanweijin.github.io/files/cold-water.pdf)
