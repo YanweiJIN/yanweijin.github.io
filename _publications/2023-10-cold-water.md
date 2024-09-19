@@ -4,7 +4,7 @@ collection: publication
 permalink: /publications/2023-10-cold-water
 excerpt: 'This study aims to investigate the effects of cold pressor test (CPT) on heart rate (HR) and HR variability (HRV).'
 date: 2024-2-28
-venue: 'Connected Health And Telemedicine'
+venue: 'Online Journal of Robotics & Automation Technology'
 paperurl: 'https://irispublishers.com/ojrat/fulltext/wearables-cardiovascular-monitoring-effects-of-cold-pressor-test-on-heart-rates-estimated-from-eCG-pPG-and-iPG-signals.ID.000541.php'
 citation: 'T Xiang, ZJ Liu, YW Jin, N Ji and YT Zhang*. Wearables Cardiovascular Monitoring: Effects of Cold Pressor Test on Heart Rates Estimated From ECG, PPG and IPG Signals. On Journ of Robotics & Autom. 2(4): 2024. OJRAT.MS.ID.000541.'
 ---
