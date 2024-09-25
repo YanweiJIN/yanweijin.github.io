@@ -12,8 +12,8 @@ main:
   #- title: "Course"
   #  url: /course/  
     
-  #- title: "Honor"
-  #  url: /honor/  
+  - title: "Honor"
+    url: /honor/  
 
   - title: "Work"
     url: /work/    
