@@ -9,17 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-## Nurse Trainee at Peking University First Hospital
+## Nurse Trainee at Peking University First Hospital (Full-time)  
+Jul 2021 – May 2022  
 
-Supervisor: Hongyan GUO (Head Nurse), Jul 2021 – May 2022
-* **Surgical Ward**: Prepared patients for surgery and provided post-operative care, including health education, skin preparation, subcutaneous injections, intravenous injections, venous blood collection, fluid drainage, enemas, dressing changes, nasal feeding, oral care, and skin care.
-* **Internal Medicine Ward**: Provided daily care for chronic disease patients, including vital sign monitoring, blood glucose measurement, electrocardiogram collection, intramuscular injections, central venous catheter placement, and blood sample analysis.
-* **Obstetrics and Gynecology Ward**: Offered prenatal and postnatal care for pregnant women, including fetal heart monitoring, labor timing assessment, assisting midwives during delivery, placenta examination, perineal irrigation, and intravenous transfusion.
-* **Pediatric Ward**: Provided daily care for newborns and young children, including bathing, comforting touch, feeding, neonatal jaundice treatment, and aerosol medication administration.
-* **Psychiatry Ward**: Cared for and treated patients, including medication administration, electroconvulsive therapy, restraints, and mindfulness therapy.
-* **Emergency Room**: Provided emergency care and observation for cardiac arrest patients, including cardiopulmonary resuscitation, defibrillation, and nasal feeding.
-* **Community Hospital**: Offered convenient medical services for chronic disease patients or residents with mild conditions, including blood glucose measurement and intravenous injections. Provided nucleic acid testing services during the COVID-19 pandemic.
-* **Specialty Research Position**: Collected patient information and health data, participated in the optimization of clinical nursing workflows.
+Rotated through various wards for 4-12 weeks each, assisting senior nurses with patient care. Recorded patient information in the hospital's electronic case system from admission to discharge, including demographics, medical diagnoses, treatments, laboratory results, daily activities, dietary intake, nursing interventions, medication administration, fluid balance, and health education to support patient recovery and well-being. Conducted clinical tasks tailored to each ward's requirements:
+
+1. **Surgical Ward**: Assisted with preoperative preparation and postoperative care, including patient education, skin preparation, subcutaneous and intravenous injections, venous blood collection, fluid drainage, enemas, dressing changes, nasal feeding, oral care, and skin care.
+2. **Internal Medicine Ward**: Provided daily care for patients with chronic diseases, including vital sign monitoring, blood glucose measurement, ECG collection, intramuscular injections, central venous catheter management, and blood sample analysis. Administered air pump massage to prevent deep vein thrombosis, performed chest physiotherapy and suctioning, pressure ulcer care, and bed linen changes for immobile patients.
+3. **Obstetrics and Gynecology Ward**: Provided prenatal and postnatal care, including fetal heart monitoring, labor timing assessment, assisting midwives during delivery, placenta examination, perineal irrigation, and intravenous transfusion.
+4. **Pediatric Ward**: Delivered daily care for newborns and young children, including bathing, soothing touch, feeding, neonatal jaundice treatment, and aerosol medication therapy.
+5. **Psychiatry Ward**: Monitored patients undergoing medication and electroshock therapy, assisted in mindfulness therapy guidance, and used restraints when necessary for patients experiencing manic episodes.
+6. **Emergency Room**: Performed cardiopulmonary resuscitation (CPR), defibrillation, nasogastric feeding, oxygen therapy, and mechanical ventilation.
+7. **Community Hospital**: Managed residents' health records, provided medical services for chronic disease patients and residents with mild conditions, including blood glucose measurement and intravenous injections, and conducted nucleic acid testing during the COVID-19 pandemic.
 
 
 ## Activities During University
